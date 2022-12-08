@@ -1,4 +1,4 @@
-Feature: Login page with Tags
+Feature: Profile Page
 
     check and edit the profile page
 
